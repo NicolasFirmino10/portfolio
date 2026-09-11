@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { User } from "lucide-react";
+import Image from "next/image";
 
 export function HangingProfile() {
   const boxRef = useRef<HTMLDivElement>(null);
@@ -166,8 +166,14 @@ export function HangingProfile() {
           touchAction: "none"
         }}
       >
-        <div className="w-20 h-20 rounded-full overflow-hidden border border-foreground/20 mb-3 bg-foreground/5 flex items-center justify-center pointer-events-none group-hover:border-foreground/40 transition-colors duration-300">
-          <User className="w-10 h-10 text-foreground/40 group-hover:text-foreground/70 transition-colors duration-300" />
+        <div className="relative w-20 h-20 rounded-full overflow-hidden border border-foreground/20 mb-3 bg-foreground/5 pointer-events-none group-hover:border-foreground/40 transition-colors duration-300">
+          <Image
+            src="/nicolas.jpg"
+            alt="Nicolas"
+            fill
+            sizes="80px"
+            className="object-cover"
+          />
         </div>
         <div className="flex flex-col items-center gap-1 pointer-events-none">
           <span className="text-xs font-bold tracking-[0.2em] text-foreground/80">
