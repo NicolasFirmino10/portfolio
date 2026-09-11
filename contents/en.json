@@ -1,0 +1,93 @@
+{
+    "about": {
+        "intro": "Sou **Analista de Dados** e desenvolvedor *Python*, construindo pontes entre dados, automação e **Inteligência Artificial**.",
+        "description": "Resolvo problemas reais com **Python**, **dados** práticos e **automações** sustentáveis.",
+        "full": "Olá, meu nome é **Nicolas Firmino**. Sou estudante de Engenharia de Software e Análise de Dados, e atuo na **StayNet**, um provedor de internet (ISP), onde minha função transita entre operações de rede, análise de dados e desenvolvimento de software.\n\nMinha principal linguagem é **Python**, que uso tanto para automação e manipulação de dados (*Pandas*, *Excel*, *SQL*) quanto para construir aplicações — de dashboards internos a chatbots com Inteligência Artificial.\n\nNo dia a dia, também trabalho com infraestrutura de rede (*Huawei*, *Mikrotik*) e análises operacionais como adimplência, atendimento e indicadores de churn — sempre buscando automatizar o que é repetitivo e extrair sinais úteis dos dados.\n\nMeu objetivo é construir uma trajetória sólida que una **Desenvolvimento de Software**, **Dados** e **Inteligência Artificial**: entender o fluxo completo, da origem do dado até a tomada de decisão, e da automação simples até sistemas de IA aplicados em produção.\n\nEstou sempre aprendendo algo novo — de modelagem de dados e SQL a **LangChain**, **RAG** e as boas práticas de um desenvolvedor Python profissional."
+    },
+    "manifesto": [
+        "DADOS",
+        "CÓDIGO LIMPO",
+        "AUTOMAÇÕES",
+        "IA APLICADA"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Monitor Unificado de Rede",
+            "category": "Ferramenta Desktop",
+            "year": "2026",
+            "description": "Uma GUI desktop em Python que unifica o monitoramento de banda por cliente em tempo real, integrando equipamentos de duas plataformas diferentes: Huawei (OLT/GPON) e Mikrotik (BRAS/PPPoE).\n\nUma aplicação Flask para acompanhar clientes Mikrotik em tempo real.",
+            "image": "/projects/monitor.jpg",
+            "stack": [
+                "Python",
+                "Tkinter",
+                "Flask",
+                "SSH"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Painel de Adimplência",
+            "category": "Análise de Dados",
+            "year": "2026",
+            "description": "Painel de acompanhamento de status de pagamento e atendimento de clientes, construído em Excel e Python.\n\nTambém inclui uma análise de reincidência de contato (clientes que acionam o suporte mais de uma vez, segmentada por atendente), categoria de demanda e escalonamento técnico, usada para identificar sinais de churn e apoiar decisões da gestão.",
+            "image": "/projects/analises.jpg",
+            "stack": [
+                "Python",
+                "Pandas",
+                "Excel"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Sistema para Frota de Veículos",
+            "category": "Desenvolvimento Full Stack",
+            "year": "2026",
+            "description": "Sistema web para gestão de frota de veículos, incluindo cadastro de veículos, motoristas, oficinas e fornecedores e peças.\n\nO sistema permite o gerenciamento completo da frota, desde o cadastro inicial da OS até a conclusão do processo e o armazenamento de informações.",
+            "image": "/projects/frota.jpg",
+            "stack": [
+                "HTML/CSS",
+                "JavaScript",
+                "Firebase"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "",
+            "year": "2023",
+            "description": "Primeiro contato com lógica de programação e os fundamentos de JavaScript, através de estudos e pequenos scripts.",
+            "stack": [
+                "JavaScript"
+            ]
+        },
+        {
+            "id": "",
+            "year": "2024",
+            "description": "Aprofundamento em Python e Orientação a Objetos, com os primeiros projetos práticos.",
+            "stack": [
+                "Python",
+                "Flask"
+            ]
+        },
+        {
+            "id": "",
+            "year": "2025",
+            "description": "Passei a atuar com análise de ERP e dados no dia a dia da StayNet: cruzamento de bases em Excel e Python, e construção de painéis de acompanhamento (adimplência, atendimento) utilizando dados vindos de diversas fontes.",
+            "stack": [
+                "Python",
+                "Excel"
+            ]
+        },
+        {
+            "id": "",
+            "year": "2026",
+            "description": "Hoje meu foco é consolidar uma trajetória que una Engenharia de Software, Dados e IA — construindo ferramentas e evoluindo em direção à Análise de Dados e à IA aplicada.",
+            "stack": [
+                "Python",
+                "SQL",
+                "IA"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "nav": {
+        "home": "Início",
+        "about": "Sobre",
+        "stack": "Stack",
+        "projects": "Projetos",
+        "roadmap": "Trajetória",
+        "contact": "Contato"
+    },
+    "title": {
+        "about": "Sobre",
+        "stack": "Stack",
+        "projects": "Projetos",
+        "roadmap": "Trajetória",
+        "contact": "Contato"
+    },
+    "scrollDown": "Rolar",
+    "contactMe": "Fale Comigo",
+    "exploreProjects": "Ver Projetos",
+    "readFullVersion": "Ler Versão Completa",
+    "frontendStack": "Frontend & Interfaces",
+    "backendStack": "Backend & Automação",
+    "databaseStack": "Bancos de Dados & ORMs",
+    "apisStack": "APIs & IA",
+    "toolsStack": "Ferramentas & Infraestrutura",
+    "projectsIntro": "Uma coleção de *projetos*, *automações* e *experimentos* com dados e **IA**.",
+    "projectsScrollText": "Role para explorar",
+    "roadmapDescription": "Uma trajetória onde compartilho as experiências que ganhei ao longo do caminho entre desenvolvimento, dados e IA.",
+    "contactIntroText": "Seja para tirar uma dúvida, trocar uma ideia ou falar sobre alguma oportunidade.",
+    "sendEmail": "Enviar um E-mail",
+    "directLine": "Contato Direto",
+    "allRightsReserved": "Todos os direitos reservados.",
+    "contactModalDescription": "Me manda uma mensagem que eu respondo o quanto antes.",
+    "projectDetails": "Detalhes sobre",
+    "aboutProject": "Sobre o Projeto",
+    "technologies": "Tecnologias",
+    "liveDemo": "Demo ao Vivo",
+    "sourceCode": "Código-Fonte",
+    "notFound": {
+        "title": "Página Não Encontrada",
+        "description": "A página que você está procurando pode ter sido removida, renomeada ou está temporariamente indisponível.",
+        "goHome": "Voltar ao Início"
+    }
+}
